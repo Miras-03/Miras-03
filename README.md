@@ -9,7 +9,7 @@ I have been passionate about programming since I was 18, and my path in programm
 * 🌍  I'm based in Kazakhstan
 * ✉️  You can contact me at [bolatbek.miras@bk.ru](mailto:bolatbek.miras@bk.ru)
 * 🚀  I'm currently working on [MultiDrive](http://https://github.com/Miras-03/MultiDrive.git)
-* 🧠  I'm learning Design Pattern and Unity optimization
+* 🧠  I'm learning Design Pattern, Zenject and Unity optimization
 * 🤝  I'm open to collaborating on develop Hyper casual games in Unity
 
 ### Skills
