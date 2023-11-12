@@ -1,7 +1,7 @@
 Welcome to my profile ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =============================================================================================================================
 
-Unity developer
+Unity programmer
 ---------------
 
 I have been passionate about programming since I was 18, and my path in programming began when I entered university. It was during my studies that I discovered my love for creating immersive and interactive experiences through coding. In August 2022, I embarked on a focused learning path, diving into the world of C# programming language and the Unity game engine. These powerful tools opened up a whole new realm of possibilities for me, allowing me to bring my ideas to life and develop captivating games.
