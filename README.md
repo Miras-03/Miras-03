@@ -9,7 +9,7 @@ I have been passionate about programming since I was 18, and my path in programm
 * 🌍  I'm based in Kazakhstan
 * ✉️  You can contact me at [bolatbek.miras@bk.ru](mailto:bolatbek.miras@bk.ru)
 * 🚀  I'm currently working on Hyper casual mobile games
-* 🧠  I'm learning Design Patterns, Unity physics and optimizations
+* 🧠  I'm learning php + MySql, design patterns, Unity physics and optimizations
 * 🤝  I'm open to collaborating on develop Hyper casual games in Unity
 
 ### Skills
