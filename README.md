@@ -4,7 +4,7 @@ Welcome to my profile ![](https://user-images.githubusercontent.com/18350557/176
 Unity programmer
 ---------------
 
-Hey there!  I am a programmer of Unity games, and my mission is to write clean code in the development of game magic. I am fluent in C# and the Unity engine, for developing 3D games. I excel in the dynamic field of game development - from the magic of programming to mischief in a multiplayer game.
+Hey there!  I'm a programmer of Unity, and my mission is to write clean code in the development of game magic. I'm fluent in C# and the Unity engine.
 
 * 🌍  I'm based in Kazakhstan
 * ✉️  You can contact me at [bolatbek.miras@bk.ru](mailto:bolatbek.miras@bk.ru)
