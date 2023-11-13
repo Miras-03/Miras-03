@@ -4,7 +4,7 @@ Welcome to my profile ![](https://user-images.githubusercontent.com/18350557/176
 Unity programmer
 ---------------
 
-I have been passionate about programming since I was 18, and my path in programming began when I entered university. It was during my studies that I discovered my love for creating immersive and interactive experiences through coding. In August 2022, I embarked on a focused learning path, diving into the world of C# programming language and the Unity game engine. These powerful tools opened up a whole new realm of possibilities for me, allowing me to bring my ideas to life and develop captivating games.
+Hey there!  I am a programmer of Unity games, and my mission is to write clean code in the development of game magic. I am fluent in C# and the Unity engine, for developing 3D games. I excel in the dynamic field of game development - from the magic of programming to mischief in a multiplayer game.
 
 * 🌍  I'm based in Kazakhstan
 * ✉️  You can contact me at [bolatbek.miras@bk.ru](mailto:bolatbek.miras@bk.ru)
