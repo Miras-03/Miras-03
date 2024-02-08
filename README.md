@@ -8,7 +8,7 @@ Hey there!  I'm a programmer of Unity, and my mission is to write clean code in 
 
 * 🌍  I'm based in Kazakhstan
 * ✉️  You can contact me at [bolatbek.miras@bk.ru](mailto:bolatbek.miras@bk.ru)
-* 🚀  I'm currently working for Samsara Studio
+* 🚀  I'm currently working for Samsara Gamedev Studio
 * 🧠  I'm learning php + MySql, design patterns, Unity physics and optimizations
 * 🤝  I'm open to collaborating on develop Hyper casual games in Unity
 
